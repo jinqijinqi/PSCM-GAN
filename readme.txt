@@ -2,7 +2,7 @@ The source codes here accompany the paper "PSCM-GAN: Pseudo-Supervised, Salient
  Object-Aware, Contrast-Enhanced, and Modal-Adaptive Generative Adversarial Network
  for Infrared and Visible Image Fusion" submitted to IEEE TCSVT.
 
-usage:
+# usage:
 
 1. Download the source codes to your machine.
 
