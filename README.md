@@ -1,5 +1,5 @@
-# PSCM-GAN
-# The source codes here accompany the paper "PSCM-GAN: Pseudo-Supervised, Salient Object-Aware, Contrast-Enhanced, and Modal-Adaptive Generative Adversarial Network for Infrared and Visible Image Fusion" submitted to IEEE TCSVT.
+# PS-GAN
+# The source codes for our paper "PS-GAN: Pseudo Supervised Generative Adversarial Network with Single Scale Retinex Embedding for Infrared and Visible Image Fusion"
 
 # usage:
 
@@ -7,8 +7,8 @@
 
 2. The trained model file is "model.pt" in the folder "./checkpoint_20/model-git".
 
-2. Run the file 'test_GAN.py" in pytorch environment to obtain fused images in the folder "./result".
+3. Run the file 'test_GAN.py" in pytorch environment to obtain fused images in the folder "./result".
 
-3. To test your new images. please put your infrared and visible images in the folder "./dataset/IR" and "./dataset/VIS", respectively. Then go to above step 2. 
+4. To test your new images. please put your infrared and visible images in the folder "./dataset/IR" and "./dataset/VIS", respectively. Then go back to step 3. 
 
 Enjoy :beers: !!!
