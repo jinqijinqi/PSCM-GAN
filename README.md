@@ -1,7 +1,7 @@
 # PS-GAN
 # The source codes for our paper "PS-GAN: Pseudo Supervised Generative Adversarial Network with Single Scale Retinex Embedding for Infrared and Visible Image Fusion"
 
-# usage:
+# inference usage:
 
 1. Download the source codes to your machine.
 
